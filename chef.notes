@@ -34,8 +34,15 @@ Infrastruscture Automation:
 
 Compliance Automation:
 - Automatically ensuring that infra is meeting the security compliance with sec standards set by Authorities like CIS(center for internet security)
+- Auto scanning for the security compliances and to remediate the issues using Chef Compliance(uses Chef InSpec).
 
+Application Automation:
+- refers to defining, packaging, and delivering apps to almost any environment regardless of OS and deployment platform.
+- Chef habitat - enables DevOps and apps teams to - build continuous delivery pipelines, cerate artifacts(can be deployed to bare metal, vm, containers etc.), Scaling agile delivery practices across Dev and Ops.
 
+Chef Software fits into DevSecOps?
+- DevOps = Dev+ IT ops - improves the org's velocity - alignment with improved collab and communication
+- DevSecOps - Security practices to be integrated with DevOps approach. Adds security consciousness
 
 
 
