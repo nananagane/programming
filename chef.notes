@@ -1,1 +1,30 @@
+Chef Automation Journey:
+Objectives:
 
+
+1. IT Automation
+2. Chef Automation
+3. DevSecOps
+
+About Chef:
+- 2008 founded. Chef Infra first product. it automates the config of your cloud and on-prem server infratructure. 
+- It automates build, deploy, and manage your infrastructure.
+- It integrates with most of the clouds like Azure, GCP, AWS to auto provision and config cloud based computing resources
+- Automate the infra deployment
+- Leader in DevOps and DevSecOps
+- Products - Chef Infra, Desktop, Inspec,Compliance, Habitat, Automate
+- Customers - IBM, FB, SAP, GM, Rakuten, Capital One, Nordstorm
+
+
+What is infrastructure?
+- Automation - act of building a process that will operate without human intervention.
+- Automating the config and management of cloud-based or on-prem computing infra.
+- Infra- physical or virtual machines that run businesses 
+- Example - Retailer - Web servers, Load balancers and database servers to run their businesses
+- It needs server management
+
+What is automation?
+- Act of building a process that will operate without human intervention
+- Creating a system which will take care of repititive tasks with consistency and reliability
+- 
+- 
