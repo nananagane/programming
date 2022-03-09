@@ -26,5 +26,31 @@ What is infrastructure?
 What is automation?
 - Act of building a process that will operate without human intervention
 - Creating a system which will take care of repititive tasks with consistency and reliability
-- 
-- 
+- Freeing the human hands to make them available for other complex problems where intelligent insight is required rather than simple rules.
+
+Infrastruscture Automation:
+- Ensuring the systens configured correctly and consistently in any cloud, on-prem, vm in an automated fashion
+- Ruby used to develop basuc building blocks that configure and maintain your infra.
+
+Compliance Automation:
+- Automatically ensuring that infra is meeting the security compliance with sec standards set by Authorities like CIS(center for internet security)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
